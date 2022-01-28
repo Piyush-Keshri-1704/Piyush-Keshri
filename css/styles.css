@@ -57,7 +57,7 @@ hr{
 .topcontainer{
     background-color: #E3FDFD;
     position: relative;
-    padding-top: 625px;
+    padding-top: 625%;
 }
 
 .middleContainer{
@@ -92,7 +92,7 @@ hr{
     background-image: linear-gradient(to bottom, #9900e6, #b82b63);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
-    border-radius: 8px;
+    border-radius: 50%;
     font-family: 'Montserrat' , sans-serif;
     color: #ffffff;
     font-size: 20px;
